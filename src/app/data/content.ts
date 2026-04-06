@@ -32,7 +32,7 @@ export const content = {
         {
           time: "Samedi 18 Avril – 6:00 PM",
           title: "Soirée",
-          place: "3e Chapelle Mimboman (lieu dit J-sop solaire)",
+          place: "Descente avenue Germaine 2e entrée à droite ( lieu dit : Motel la Samaritaine)",
         },
       ],
     },
@@ -145,7 +145,7 @@ export const content = {
         {
           time: "Samedi 18 Avril – 18h00",
           title: "Soirée",
-          place: "3e Chapelle Mimboman (lieu dit J-sop solaire)",
+          place: "Descente avenue Germaine 2e entrée à droite ( lieu dit : Motel la Samaritaine)",
         },
       ],
     },
